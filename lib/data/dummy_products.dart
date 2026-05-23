@@ -1,0 +1,136 @@
+import '../models/product_model.dart';
+
+final List<Product> dummyProducts = [
+  Product(
+    name: 'Men Shirt Classic',
+    price: 2500,
+    image: 'assets/images/products/men/men_shirt_1.jpg',
+    category: 'Men',
+  ),
+  Product(
+    name: 'Men Shirt Premium',
+    price: 3200,
+    image: 'assets/images/products/men/men_shirt_2.jpg',
+    category: 'Men',
+  ),
+  Product(
+    name: 'Men Shirt Casual',
+    price: 2800,
+    image: 'assets/images/products/men/men_shirt_3.jpg',
+    category: 'Men',
+  ),
+  Product(
+    name: 'Men Shirt Slim',
+    price: 2950,
+    image: 'assets/images/products/men/men_shirt_4.jpg',
+    category: 'Men',
+  ),
+  Product(
+    name: 'Men Shirt Formal',
+    price: 3550,
+    image: 'assets/images/products/men/men_shirt_5.jpg',
+    category: 'Men',
+  ),
+  Product(
+    name: 'Women Dress Summer',
+    price: 4200,
+    image: 'assets/images/products/women/women_dress_1.jpg',
+    category: 'Women',
+  ),
+  Product(
+    name: 'Women Dress Elegant',
+    price: 5400,
+    image: 'assets/images/products/women/women_dress_2.jpg',
+    category: 'Women',
+  ),
+  Product(
+    name: 'Women Dress Party',
+    price: 6100,
+    image: 'assets/images/products/women/women_dress_3.jpg',
+    category: 'Women',
+  ),
+  Product(
+    name: 'Women Dress Casual',
+    price: 4700,
+    image: 'assets/images/products/women/women_dress_4.jpg',
+    category: 'Women',
+  ),
+  Product(
+    name: 'Women Dress Floral',
+    price: 5900,
+    image: 'assets/images/products/women/women_dress_5.jpg',
+    category: 'Women',
+  ),
+  Product(
+    name: 'Running Shoe',
+    price: 6800,
+    image: 'assets/images/products/shoes/shoe_1.jpg',
+    category: 'Shoes',
+  ),
+  Product(
+    name: 'Sport Shoe',
+    price: 7400,
+    image: 'assets/images/products/shoes/shoe_2.jpg',
+    category: 'Shoes',
+  ),
+  Product(
+    name: 'Casual Shoe',
+    price: 5900,
+    image: 'assets/images/products/shoes/shoe_3.jpg',
+    category: 'Shoes',
+  ),
+  Product(
+    name: 'Trail Shoe',
+    price: 7200,
+    image: 'assets/images/products/shoes/shoe_4.jpg',
+    category: 'Shoes',
+  ),
+  Product(
+    name: 'Trainer Shoe',
+    price: 8100,
+    image: 'assets/images/products/shoes/shoe_5.jpg',
+    category: 'Shoes',
+  ),
+  Product(
+    name: 'Kids T-Shirt',
+    price: 1800,
+    image: 'assets/images/products/kids/kids_tshirt.jpg',
+    category: 'Kids',
+  ),
+  Product(
+    name: 'Kids Dress',
+    price: 2400,
+    image: 'assets/images/products/kids/kids_dress.jpg',
+    category: 'Kids',
+  ),
+  Product(
+    name: 'Kids Sneakers',
+    price: 2600,
+    image: 'assets/images/products/kids/kids_sneakers.jpg',
+    category: 'Kids',
+  ),
+  Product(
+    name: 'Kids Hoodie',
+    price: 2900,
+    image: 'assets/images/products/kids/kids_hoodie.jpg',
+    category: 'Kids',
+  ),
+  Product(
+    name: 'Kids Party Dress',
+    price: 3200,
+    image: 'assets/images/products/kids/kids_party_dress.jpg',
+    category: 'Kids',
+  ),
+  Product(
+    name: 'Kids Sport Shoes',
+    price: 3500,
+    image: 'assets/images/products/kids/kids_sport_shoes.jpg',
+    category: 'Kids',
+  ),
+  Product(
+    name: 'Kids Casual Shoes',
+    price: 3600,
+    image: 'assets/images/products/kids/kids_casual_shoes.jpg',
+    category: 'Kids',
+  ),
+];

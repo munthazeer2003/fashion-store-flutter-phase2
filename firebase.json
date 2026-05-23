@@ -1,0 +1,28 @@
+{
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "fashion-store-app-51b15",
+          "appId": "1:629696079518:android:26f9200314de3e9682fd8f",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "fashion-store-app-51b15",
+          "configurations": {
+            "android": "1:629696079518:android:26f9200314de3e9682fd8f",
+            "ios": "1:629696079518:ios:d91b42fc8be3d74a82fd8f",
+            "macos": "1:629696079518:ios:d91b42fc8be3d74a82fd8f",
+            "web": "1:629696079518:web:61139a8606db10a182fd8f",
+            "windows": "1:629696079518:web:952663ef0567a7e582fd8f"
+          }
+        }
+      }
+    }
+  }
+}
