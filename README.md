@@ -5,6 +5,10 @@
 ![Firebase](https://img.shields.io/badge/Firebase-Enabled-FFCA28?logo=firebase&logoColor=black)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)
+![GitHub stars](https://img.shields.io/github/stars/munthazeer2003/fashion-store-flutter-phase2)
+![GitHub forks](https://img.shields.io/github/forks/munthazeer2003/fashion-store-flutter-phase2)
+![GitHub issues](https://img.shields.io/github/issues/munthazeer2003/fashion-store-flutter-phase2)
+![Last commit](https://img.shields.io/github/last-commit/munthazeer2003/fashion-store-flutter-phase2)
 
 Full-stack fashion e-commerce mobile app.
 
