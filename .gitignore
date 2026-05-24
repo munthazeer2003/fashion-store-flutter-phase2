@@ -29,7 +29,14 @@ migrate_working_dir/
 .flutter-plugins-dependencies
 .pub-cache/
 .pub/
-/build/
+/build/*
+!/build/app/
+/build/app/*
+!/build/app/outputs/
+/build/app/outputs/*
+!/build/app/outputs/flutter-apk/
+/build/app/outputs/flutter-apk/*
+!/build/app/outputs/flutter-apk/app-release.apk
 /coverage/
 
 # Symbolication related
@@ -46,6 +53,7 @@ app.*.map.json
 # Android Gradle (HUGE folders - must exclude!)
 android/.gradle/
 android/local.properties
+android/app/google-services.json
 
 # Firebase logs
 firebase-debug.log
