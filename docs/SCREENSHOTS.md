@@ -16,4 +16,4 @@
 | Order History | All past orders |
 | Profile | User info and settings |
 
-> Screenshots will be added after video demo recording.
+> 🎬 Full video demonstration available at: https://youtu.be/IDdQMxkb5GI?si=SdgtjDi86-sP_kX0

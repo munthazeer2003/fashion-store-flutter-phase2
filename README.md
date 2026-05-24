@@ -77,6 +77,27 @@ flutter run
 Download the latest APK from GitHub Releases:
 https://github.com/munthazeer2003/fashion-store-flutter-phase2/releases
 
+## 🎬 Video Demonstration
+
+[![MFashion Store - Flutter & Firebase Demo](https://img.youtube.com/vi/IDdQMxkb5GI/maxresdefault.jpg)](https://youtu.be/IDdQMxkb5GI?si=SdgtjDi86-sP_kX0)
+
+▶️ **[Watch Full Demo on YouTube](https://youtu.be/IDdQMxkb5GI?si=SdgtjDi86-sP_kX0)**
+
+| Timestamp | Feature Demonstrated |
+|-----------|---------------------|
+| 00:00 | Introduction & Student Info |
+| 00:30 | Splash & Onboarding Screen |
+| 01:00 | User Registration (Firebase Auth) |
+| 01:30 | User Login & Logout |
+| 02:00 | Home Screen & Categories |
+| 02:30 | Product Browsing (Men, Women, Kids, Shoes) |
+| 03:00 | Product Detail & Add to Cart |
+| 03:30 | Wishlist Feature |
+| 04:00 | Shopping Cart & Checkout |
+| 04:30 | Order Placement & Order History |
+| 05:00 | User Profile View & Edit |
+| 05:30 | Firebase Integration Demo |
+
 ## 📚 Documentation
 
 | Document | Link |

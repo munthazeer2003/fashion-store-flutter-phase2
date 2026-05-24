@@ -15,6 +15,7 @@ All notable changes to this project will be documented in this file.
 - MVVM architecture with Provider
 - Custom animated product cards
 - Release APK v1.0.0
+- Video demonstration published on YouTube
 
 ## [0.1.0] - 2026-05-20
 ### Added - Phase 1 UI Only
