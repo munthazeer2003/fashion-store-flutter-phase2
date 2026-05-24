@@ -77,6 +77,16 @@ flutter run
 Download the latest APK from GitHub Releases:
 https://github.com/munthazeer2003/fashion-store-flutter-phase2/releases
 
+## 📚 Documentation
+
+| Document | Link |
+|----------|------|
+| Firebase Setup | [docs/FIREBASE_SETUP.md](docs/FIREBASE_SETUP.md) |
+| Architecture Guide | [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) |
+| Screenshots | [docs/SCREENSHOTS.md](docs/SCREENSHOTS.md) |
+| Changelog | [CHANGELOG.md](CHANGELOG.md) |
+| Contributing | [CONTRIBUTING.md](CONTRIBUTING.md) |
+
 ## Academic Info
 
 | Field | Detail |
